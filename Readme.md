@@ -16,7 +16,7 @@ It also includes smart keyword matching to improve accuracy for common entries a
 
 
 
-1. Preprocessing – The entered description is cleaned (lowercased, special characters removed) and lemmatized using NLTK.
+1\. Preprocessing – The entered description is cleaned (lowercased, special characters removed) and lemmatized using NLTK.
 
 
 
