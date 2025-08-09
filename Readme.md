@@ -44,7 +44,7 @@ Follow these steps to set up and run the project on your local machine:
 
 
 
-1. Create a Virtual Environment
+1\. Create a Virtual Environment
 
 &nbsp;   python -m venv venv
 
