@@ -46,39 +46,39 @@ Follow these steps to set up and run the project on your local machine:
 
 1. Create a Virtual Environment
 
-&nbsp;  python -m venv venv
+&nbsp;   python -m venv venv
 
 
 
 2\. Activate the Virtual Environment
 
-&nbsp;  venv\\Scripts\\activate
+&nbsp;   venv\\Scripts\\activate
 
 
 
 3\. Install Dependencies
 
-&nbsp;  pip install -r requirements.txt
+&nbsp;   pip install -r requirements.txt
 
 
 
 4\. Download NLTK Data (One-Time Setup)
 
-&nbsp;  python download\_nltk\_data.py
+&nbsp;   python download\_nltk\_data.py
 
 
 
 5\. Run the Streamlit App
 
-&nbsp;  streamlit run app.py
+&nbsp;   streamlit run app.py
 
 
 
 6\. Interact with the App
 
-&nbsp;  Enter a transaction description and amount.
+&nbsp;   Enter a transaction description and amount.
 
-&nbsp;  The model predicts the category.
+&nbsp;   The model predicts the category.
 
-&nbsp;  View expense history and a pie chart of spending.
+&nbsp;   View expense history and a pie chart of spending.
 
